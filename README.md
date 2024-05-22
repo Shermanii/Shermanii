@@ -23,7 +23,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com//
-[linkedin]: https://linkedin.com/in/Sherman cannon jr
+[linkedin]: https://linkedin.com/in/Shermancannonjr17159322b
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
