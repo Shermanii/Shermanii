@@ -7,11 +7,11 @@
 
 <h2> Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional]()
 
 <h2> Popular Youtube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial Active Directory Home Lab]()
 
 <h2> Connect with me:</h2>
 
