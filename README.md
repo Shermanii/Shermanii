@@ -11,7 +11,7 @@
 
 <h2> Popular Youtube Videos</h2>
 
-- [Tutorial Active Directory Home Lab]()
+- [Active Directory Home Lab]()
 
 <h2> Connect with me:</h2>
 
@@ -22,7 +22,7 @@
 
 
 
-[instagram]: https://www.instagram.com//
+
 [linkedin]: https://linkedin.com/in/shermancannonjr
 
 <!--
